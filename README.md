@@ -23,6 +23,6 @@ The following results were obtained after running the model on our test data:
 ## Instructions to run
 1. These notebooks contain R code.
 2. Upload these notebooks to Kaggle.
-3. Add the [Brain Tumor MRI](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri) images and the [Keras pretrained model](https://www.kaggle.com/datasets/gaborfodor/keras-pretrained-models) to the data in the right column.
+3. Add the [Brain Tumor MRI](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri) images and the [Keras pretrained models](https://www.kaggle.com/datasets/gaborfodor/keras-pretrained-models) to the data in the right column.
 4. Turn on any GPU processor. The code will crash without it due to heavy data processing.
 5. Run the notebook to get the results.
