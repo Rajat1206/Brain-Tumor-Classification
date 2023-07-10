@@ -1,5 +1,5 @@
 # Brain Tumor Classification
-Brain Tumor Classification using Deep Learning on MRI Scans
+**Brain Tumor Classification using Deep Learning on MRI Scans**
 
 Brain tumors are one of the most often diagnosed malignant tumors in persons of all ages. Recognizing its grade is challenging for radiologists in health monitoring and automated determination. It is critical to detect and classify contaminated tumor locations using Magnetic Resonance Imaging (MRI) images. Detecting the type of tumor and preventing it is one of the most challenging aspects of brain tumor categorization. With the rapid development of deep learning technology, automatic classification of brain tumors by magnetic resonance imaging (MRI) has become a promising research area.
 
